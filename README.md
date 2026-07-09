@@ -1,2 +1,2 @@
 # CaliDist
-Updated codebase coming soon! Thank you for your patience. :)
+Updated codebase coming by July 15, 2026! Thank you for your patience. :)
